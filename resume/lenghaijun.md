@@ -12,7 +12,6 @@
 
 |当前雇主: 上海幻电信息科技有限公司(哔哩哔哩)|
 
-----
 ## 项目经验 ##
 
 ### 2017/7 -- 现在 童话少女 (C#/Lua) ![Unity](https://bytebucket.org/cn00/utilities/raw/96db36537ff56aa3f7f45323515a4c335f10079f/icon/unity_16.png)
