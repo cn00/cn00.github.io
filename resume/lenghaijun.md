@@ -4,7 +4,7 @@
 
 ----
 ## 基本信息 ##
-|冷海军[Leng Haijun] | 男 1989－02 | 4年 C/C++/Lua/JavaScript 移动开发 |
+|冷海军 | 男 1989－02 | 4年 C/C++/Lua/JavaScript 移动开发 |
 
 |手机:132-6293-7413 | QQ:  897469961 | Email: <cool_navy@126.com> |
 
