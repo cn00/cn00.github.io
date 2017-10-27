@@ -42,8 +42,11 @@
 
 
 ### 2015/10 -- 现在 魔法少女小圆 （C++/Lua） ![cocos](https://bytebucket.org/cn00/utilities/raw/8042a2c0cc183560721fb5dc302b48408d3b829e/icon/cocos-16.png)
+
 **项目描述** 魔法少女小圆 是一款整合了养成, 卡牌收集等玩法的横版动作过关网络手机游戏
+
 **开发工具** iOS: `Xcode`, Win32: `Visual Studio`, `Cygwin`, CocosBuilder
+
 **项目职责** 
 > **重构优化**, 推行 MVC 设计模式, 模块化拆分已便动态加载游戏内容, 将 600M 常驻内存占用降至峰值 300M 以下, 并结合预加载和缓存技术平衡卡顿, 重构 AI 系统；
 > **功能开发**, 如:技能符文系统, 任务系统等；
@@ -71,9 +74,11 @@
 -->
 
 ### 2014/02 -- 2015/09 幻想英雄 （C++） ![cocos](https://bytebucket.org/cn00/utilities/raw/8042a2c0cc183560721fb5dc302b48408d3b829e/icon/cocos-16.png)
+
 **项目描述** `幻想英雄`是一款融合了 `SLG` 以及 `RPG` 元素, 包含卡牌收集, 卡牌养成, 排兵布阵, 跨服竞技争霸, 等玩法的在线手游. 是国内早期千万级产品之一. 
-**开发工具** iOS: `Xcode`, Win32/WindowsPhone: `Visual Studio`, `Cygwin`, 自研场景编辑器
+
 **相关网站** [主页](http://gamed9.com/home/pro_2.html), [贴吧](http://tieba.baidu.com/f?kw=%E5%B9%BB%E6%83%B3%E8%8B%B1%E9%9B%84&ie=utf-8)
+
 **项目职责** 
 > **系统开发**, 如: 采用标准 `MVC` 模式, `socket` + `ByteBuffer` 通信协议实现了试练之塔, 世界 boss, 十二星宫, 跨服组队战等若干玩家喜爱的系统, 在游戏文本聊天室中嵌入语音系统;
 > **系统优化**, 如: 运用多线程技术减少游戏启动场景加载时间, 使用本地缓存还原系统再入状态等提升用户体验;
@@ -105,8 +110,6 @@
 ### 2013/02 -- 2013/10 武侠传 （C++） ![cocos](https://bytebucket.org/cn00/utilities/raw/8042a2c0cc183560721fb5dc302b48408d3b829e/icon/cocos-16.png)
 
 **项目描述** 武侠题材横版闯关, 多人在线 `RPG` 手机网络游戏.
-
-**开发工具** `Visual Studio`, `Cygwin`, `Eclipse`, `Xcode`(虚拟机)
 
 **相关网站** [主页](http://ng.9game.cn/game/detail_514565.html), [论坛](http://bbs.9game.cn/forum-968-1.html), [贴吧](http://tieba.baidu.com/f?kw=%E6%AD%A6%E4%BE%A0%E4%BC%A0&ie=utf-8)
 
@@ -143,7 +146,6 @@
 > C / C++ / C# / Object-C / Swift
 > shell / JavaScript / Lua
 > MySQL / SQLite
-熟悉 
 > Java / Python
 
 ----
