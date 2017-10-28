@@ -34,25 +34,6 @@
 > **工具开发**, 设计实现基于`xxtea`算法的资源加解密系统, 设计实现基于 `Jenkins` 的自动化构建系统, 同步输出 android 和 iOS 安装包, 并可根据版本控制系统一键生成并自动部署热更新补丁到 OSS对象存储服务 或 web 站点；架设基于 `redmine` 的项目管理系统, 推行失败。
 
 
-<!--
-2015 AngryBots ![Unity](https://bytebucket.org/cn00/utilities/raw/96db36537ff56aa3f7f45323515a4c335f10079f/icon/unity_16.png) (练习项目)
-**项目描述** 基于 `Unity3D` 示例`AngryBots`二次开发项目
-
-**开发工具** `Unity`
-
-**相关链接**[百度网盘](http://pan.baidu.com/s/1eQnriH8)
-
-**工作内容** 
-> **脚本改写** 基于 `GitHub` [AngryBots](https://github.com/SpiritWolf2015/U3D5_CSharp_AngryBots) 将原有 `js`  脚本改写为 `C#`脚本;
-
-> **添加怪物** 添加新怪物, 添加角色及怪物头标, 显示其名称, 生命值等;
-
-> **语音聊天室** 接入亲加语音聊天室
-
-> **多人模式** 添加基于 `M2H_Networking` 局域网多人模式(进行中);
-
--->
-
 ### 2014/02 -- 2015/09 幻想英雄 （C++） ![cocos](https://bytebucket.org/cn00/utilities/raw/8042a2c0cc183560721fb5dc302b48408d3b829e/icon/cocos-16.png)
 
 **项目描述** `幻想英雄`是一款融合了 `SLG` 以及 `RPG` 元素, 包含卡牌收集, 卡牌养成, 排兵布阵, 跨服竞技争霸, 等玩法的在线手游. 是国内早期千万级产品之一. 
@@ -68,21 +49,15 @@
 
 **相关网站** [主页](http://gamed9.com/home/pro_2.html), [贴吧](http://tieba.baidu.com/f?kw=%E5%B9%BB%E6%83%B3%E8%8B%B1%E9%9B%84&ie=utf-8)
 
-<!--
-2014/12 -- 2015/02 伴伴 ![ios]()
-**项目描述** 一款 `o2o` 心理咨询 APP. 
-**开发工具** `Xcode`
-**代码仓库** [Bitbucket](https://bitbucket.org/cn00/banban)
-**工作内容** 使用 `Object-C` 编写 `iOS` 客户端程序, `iPhone` 和 `iPad` 屏幕适配. 使用 `cocopod` 管理第三方库. 采用 `EaseMobSDK` 环信通信云实现即时在线聊天; `AFNetwork` 作为网络通信模块; `JSONKIT` 解析网络数据; `MWPhotoBrowser` 作为照片墙展示模块; `AliPay` 支付宝支付.
--->
 
 ### 2013/09 -- 2014/02 女神降临 （C++）![cocos](https://bytebucket.org/cn00/utilities/raw/8042a2c0cc183560721fb5dc302b48408d3b829e/icon/cocos-16.png)
 
 **项目描述** 魔幻题材横版滚轴闯关 `RPG` 手机网络游戏.
 
-**工作内容** 根据项目需求定制修改游戏引擎, 如 `socket`/`HTTP` 网络通信模块; 使用C++语言, `HTTP`/`socket` + `json` 与服务器配合实现各功能模块, 如设计实现九宫格核心战斗系统, 使用随机算法模拟在线玩家活动, 使用缓存和预加载技术设计实现横版滚动视差主场景, 使用 `socket` 实现在线聊天室, 实时多人在线副本, 使用性能分析工具分析程序性能瓶颈并寻求解决方案, 如使用 `SQLite` + `cache` 替代 csv 文本数据表文件降低固有内存开销等.
+**工作内容** 根据项目需求定制修改游戏引擎, 如 `socket`/`HTTP` 网络通信模块; 使用C++语言, `HTTP`/`socket` + `json` 与服务器配合实现各功能模块, 如设计实现九宫格核心战斗系统, 使用随机算法模拟在线玩家活动, 使用缓存和预加载技术设计实现横版滚动视差主场景, 使用 `socket` 实现在线聊天室, 实时多人在线副本, 使用性能分析工具分析程序性能瓶颈并寻求解决方案, 如使用 `SQLite` + `cache` 替代 csv 降低解析及内存开销等.
 
 **相关网站** [主页](http://www.9game.cn/nsjl), [论坛](http://bbs.9game.cn/forum-1925-1.html)
+
 
 ### 2013/02 -- 2013/10 武侠传 （C++） ![cocos](https://bytebucket.org/cn00/utilities/raw/8042a2c0cc183560721fb5dc302b48408d3b829e/icon/cocos-16.png)
 
