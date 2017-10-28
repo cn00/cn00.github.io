@@ -173,4 +173,4 @@
 
 |手机: 132-6293-7413 | Email: <cool_navy@qq.com> | QQ: 897469961 |
 
-|QQ ![QQ](../img/qq.qr.300.jpg) | WeiXin ![wx](../img/wx.qr.300.jpg) |
+| ![QQ](../img/qq.qr.300.jpg) | ![wx](../img/wx.qr.300.jpg) |
