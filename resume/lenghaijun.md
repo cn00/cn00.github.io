@@ -1,4 +1,4 @@
-## <center> [冷海军: cocos2d-x](https://cn00.github.io/resume/lenghaijun) </center>
+## [<center> 冷海军: cocos2d-x </center>](https://cn00.github.io/resume/lenghaijun)
 
 ## 基本信息
 * 冷海军, 男, 1989, 5年 C/C++/Lua 移动开发
