@@ -39,16 +39,16 @@
 ### 上海幻电信息科技有限公司 
 * 工作时间: 2015/10 -- 现在
 * 部门: 游戏事业部
-* 工作描述1: `魔法少女小圆` (2015/10 -- 2017/6) C++/Lua Cocos2d ![cocos](../img/icon/cocos_16.png)
-* 工作描述2: `童话少女` (2017/7 -- 现在) C#/Lua Unity3D ![Unity](../img/icon/unity_16.png)
+* 工作描述1: `魔法少女小圆` (2015/10 -- 2017/6) C++/Lua Cocos2d ![cocos](../img/icon/cocos-16.png)
+* 工作描述2: `童话少女` (2017/7 -- 现在) C#/Lua Unity3D ![Unity](../img/icon/unity-16.png)
 
 ### 上海萌果信息科技有限公司 
 * 工作时间: 2014/02 -- 2015/10
-* 工作描述: `幻想英雄` C++ Cocos2d ![cocos](../img/icon/cocos_16.png)
+* 工作描述: `幻想英雄` C++ Cocos2d ![cocos](../img/icon/cocos-16.png)
 
 ### 上海鑫烨网络科技有限公司 
 * 工作时间: 2013/02 -- 2014/02 
-* 工作描述: `武侠转` C++ Cocos2d ![cocos](../img/icon/cocos_16.png)
+* 工作描述: `武侠转` C++ Cocos2d ![cocos](../img/icon/cocos-16.png)
 
 ### 喀什二中 
 * 工作时间: 2012/07 -- 2013/02 
