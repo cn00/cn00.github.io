@@ -11,13 +11,12 @@
 * GitHub: [cn00](https://github.com/cn00)
 
 ## 专业能力
+- 熟练语言 `C++`/`C#`/`Lua`/`Shell`/`SQL`
+- 熟悉引擎 `unity3d` 4 年, `cocos2d-x` 5年
 - 擅长环境 `macOS`/`Linux`/`Docker`
-- 擅长语言 `C++`/`C#`/`Lua`/`Shell`/`SQL`
-- 游戏引擎 `unity3d` 4 年, `cocos2d-x` 5年
-- 业余服务器经验 `C++`/`Java`/`SQL`/`Kotlin`/`Go`
-- 擅长开发和使用各种工具, 对系统工具也较熟悉, 擅长使用工具完成一些如数据处理, 分析定位问题等工作
-- 能够学习新技术新语言, 能够触类旁通, 有较强等代码阅读分析能力, 能快速定位问题, 实现需求
-- 具有丰富的开源项目组件使用经验, 擅长按需要组合开源模块, 根据项目需求进行二次开发
+- 擅长开发和使用各种工具, 对 `Unix` 系统工具较熟悉, 擅长使用 `shell` 管道编写工具脚本完成一些如数据处理, 日志分析, 问题定位等工作
+- 能够快速学习新技术新语言, 能够触类旁通, 有较强等代码阅读分析能力, 能快速定位问题, 实现需求
+- 具有丰富的开源项目组件使用经验, 擅长按需要组合开源模块, 根据项目需求进行二次开发, 如: lua, sqlite, flatbuffers
 - 热爱开源社区, 积极为开源项目贡献代码, 如腾讯开源热更新方案 [XLua](https://github.com/Tencent/xlua.git) / [InjectFix](https://github.com/Tencent/InjectFix.git), 分布式构建系统 [distcc](https://github.com/distcc/distcc.git)
 
 
@@ -47,7 +46,7 @@
 >- 剧情导入工具开发
 >- 剧情播放器开发
 
-* 本地化项目: `梦王国与沉睡的100王子`![cocos](../img/icon/cocos-16.png), `A3! 满开剧团` ![Unity](../img/icon/unity-16.png), `尼尔·重生` ![Unity](../img/icon/unity-16.png)
+* 本地化项目: `A3! 满开剧团` ![Unity](../img/icon/unity-16.png), `梦王国与沉睡的100王子`![cocos](../img/icon/cocos-16.png), `尼尔·重生` ![Unity](../img/icon/unity-16.png)
 >- 同步合并日本源代码新版本
 >- 待翻译资源提取合并回填工具开发 (shell+lua+C#+SQL)
 >- 代码热更方案设计实现(XLua/InjectFix)
@@ -57,10 +56,10 @@
 >- 服务器本地化移植 `PHP/Kotlin`, 如: AWS/GoogleDriver 模块替换为 AliyunOSS/TencentCOS (Golang/Kotlin)
 >- 客户端资源上传 oss/cos 工具开发 `Go`
 
-* 组内自发项目: `歌牌:唐诗百人一首`  C# + lua ![Unity](../img/icon/unity-16.png)
->- 使用业余时间设计实现的一套快速迭代开发框架实现, 包括资源和代码热更新(基于 XLua), 
-开发过程中可以快速部署到手机PC等终端预览效果, 单人一周即实现了局域网游戏大厅房间匹配联机对战核心功能
->- 局域网联机对战(Android, iOS, Windows, macOS 无差别对等连接), 局域网广播发现对等终端(Android 广播发现暂未实现)
+* 业余自研项目: `歌牌:唐诗百人一首`  C# + lua ![Unity](../img/icon/unity-16.png)
+>- 单人一周实现局域网游戏大厅, 匹配联机对战核心功能 
+>- 局域网联机(基于 UDP 广播, Android, iOS, Windows, macOS 无差别对等连接)
+>- 局域网对战(TCP)
 >- 游戏大厅, 房间组队, 即时对战
 >- 单日实现[圆周率飞花令](https://new.qq.com/omn/20191125/20191125A0HFXJ00.html)玩法
 >- 诗歌数据爬取格式化导入 sqlite 数据库
@@ -77,13 +76,13 @@
 >- 游戏服务器 Android 移植(个人兴趣, 基于 termux)
 
 ### 上海鑫烨网络科技有限公司
-* 工作时间: 2013/04 -- 2014/02
-* 项目简介: `武侠传` 客户端开发维护 C++ PHP Cocos2d ![cocos](../img/icon/cocos-16.png)
->- 六宫格战斗系统重构开发
+* 工作时间: 2013/03 -- 2014/02
+* 项目简介: `武侠传`/`女神降临` 客户端开发维护 C++ PHP Cocos2d ![cocos](../img/icon/cocos-16.png)
+>- 六宫格战斗系统开发
+>- iOS 版本移植
 >- 内存优化(基于cache + sqlite)
->- 横版地图多人伪即时在线系统开发
+>- 多人伪即时在线系统开发
 >- 文本即时聊天系统开发
->- iOS 版本移植, 并成功上线越狱渠道
 
 ### 喀什第二中学 
 * 工作时间: 2012/07 -- 2013/02
