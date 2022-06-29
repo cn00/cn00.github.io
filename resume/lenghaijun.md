@@ -1,92 +1,120 @@
 ## [<center> 冷海军 游戏开发 </center>](https://cn00.github.io/resume/lenghaijun)
 
 ## 基本信息
-* 冷海军, 男, 1989-2-15, 
-* 手机: 181-5834-1378 
-* Email: <cool_navy@qq.com> 
-* 华东师范大学, 教育技术学专业, 本科, 2008-2012
-* 上海幻电信息科技有限公司(哔哩哔哩)
-* 8年 C#/C++/Lua 游戏开发
-* 有多个项目成功上线经验, 如 `武侠转`/`幻想英雄`/`魔法少女小圆`/`A3!满开剧团`
-* GitHub: [cn00](https://github.com/cn00)
+* 冷海军, 男, 1989, 
+* 181-5834-1378, [cool_navy@qq.com](mailto:cool_navy@qq.com)
+* 华东师范大学, 教育技术学专业, 本科理学学士
+* 上海炘璞电子科技有限公司
+* 9年 C++/C#/Lua 手机游戏开发
+* 成功项目经验 `武侠转`/`幻想英雄`/`魔法少女小圆`/`A3!满开剧团`
+* GitHub: [cn00](https://github.com/cn00) 码云: [cn00](https://gitee.com/cnoo)
 
 ## 专业能力
 - 熟练语言 `C++`/`C#`/`Lua`/`Shell`/`SQL`
-- 熟悉引擎 `unity3d` 4 年, `cocos2d-x` 5年
+- 熟悉引擎 `unity3d` 5 年, `cocos2d-x` 5年
 - 擅长环境 `macOS`/`Linux`/`Docker`
 - 擅长开发和使用各种工具, 对 `Unix` 系统工具较熟悉, 擅长使用 `shell` 管道编写工具脚本完成一些如数据处理, 日志分析, 问题定位等工作
 - 能够快速学习新技术新语言, 能够触类旁通, 有较强等代码阅读分析能力, 能快速定位问题, 实现需求
 - 具有丰富的开源项目组件使用经验, 擅长按需要组合开源模块, 根据项目需求进行二次开发, 如: lua, sqlite, flatbuffers
-- 热爱开源社区, 积极为开源项目贡献代码, 如腾讯开源热更新方案 [XLua](https://github.com/Tencent/xlua.git) / [InjectFix](https://github.com/Tencent/InjectFix.git), 分布式构建系统 [distcc](https://github.com/distcc/distcc.git)
+- 热爱开源社区, 积极为开源项目贡献代码, 如腾讯开源热更新方案 [XLua](https://github.com/Tencent/xlua.git) / [InjectFix](https://github.com/Tencent/InjectFix.git)
 
 
 ## 工作经历
 
+### 上海炘璞电子有限公司
+- 时间：2021/12 -- 2022/4
+- 项目一：巴斯夫上海化工厂危险废品仓库管理系统
+- 主要工作内容：
+  - 危废管理系统后台及手持机应用开发（java/golang/vue）
+  - 门禁系统
+  - 仓库管理系统维护
+  - 旧有后台框架重构
+- 项目二: 天津某园区资产自动盘点系统
+  - 
+- 项目三: 钢瓶运输防盗监控
+  
+
+### 上海奥刃网络科技有限公司
+- 工作时间：2021/9 -- 2021/12
+- 项目简介：`奥刃小镇`![Unity](../img/icon/unity-16.png) 养成类游戏, 玩法类似 [姜饼人王国](https://www.cookierun-kingdom.com/zh-Hant/), 使用[波函数塌缩](https://github.com/mxgmn/WaveFunctionCollapse) 算法实现的程序化建筑生成, 如[城镇叠叠乐](https://www.bilibili.com/video/BV1Xy4y127CB/)
+- 工作内容：
+  - 基于 `typescript` 的业务脚本代码自动生成工具设计开发
+  - 养成和建筑系统设计开发
+  - 
+
 ### 上海幻电信息科技有限公司 / 上海灼焰信息科技有限公司
-* 工作时间: 2015/10 -- 今
+* 工作时间: 2015/10 -- 2021/9
 * 部门: 游戏事业部
 * 自研项目1: `魔法少女小圆` (2015/10 -- 2017/6) 客户端开发维护 C++ + Lua Cocos2d ![cocos](../img/icon/cocos-16.png), 少量服务器开发 C++
->- 若干游戏系统开发, 如: 登录, 选服, Tips 弹窗, 羁绊技能, 技能符文在线视频演示, 部分怪物 AI 开发
->- 资源多线程异步延迟加载系统设计实现
->- 内存优化, spine 加载优化
->- 自动化脚本开发, 如: 图片批量预处理, Jenkins 打包 apk/ipa, 资源增量打包并上传对象存储
->- 即时聊天服务器+客户端开发
->- 上线后维护
+  - 若干游戏系统开发, 如: 登录, 选服, Tips 弹窗, 羁绊技能, 技能符文在线视频演示, 部分怪物 AI 开发
+  - 资源多线程异步延迟加载系统设计实现
+  - 内存优化, spine 加载优化
+  - 自动化脚本开发, 如: 图片批量预处理, Jenkins 打包 apk/ipa, 资源增量打包并上传对象存储
+  - 即时聊天服务器+客户端开发
+  - 上线后维护
 
-* 自研项目2: `精灵少女` (2017/6 -- 2018/3) 客户端开发 C#+Lua Unity3D ![Unity](../img/icon/unity-16.png)
->- 项目立项(中日合研发项目)
->- 瓦片地图关卡编辑器设计开发
->- 战斗镜头控制系统设计开发
->- XLua 接入, lua 加载系统设计
->- 剧情播放器及剧情导入工具开发
->- 资源打包下载及加载系统
+* 自研项目2: `原书原书使` (2017/6 -- 2018/3) 客户端开发 C#+Lua Unity3D ![Unity](../img/icon/unity-16.png)
+  - 项目立项(中日合作研发项目)
+  - 瓦片地图关卡编辑器设计开发
+  - 战斗镜头控制系统设计开发
+  - XLua 接入, lua 加载系统设计
+  - 剧情播放器及剧情导入工具开发
+  - 资源打包下载及加载系统
 
 * 自研项目3: `战棋·野望` (2019/4 -- 2019/9) 客户端开发 C# Unity3D ![Unity](../img/icon/unity-16.png)
->- 战棋类独立游戏项目
->- 剧情导入工具开发
->- 剧情播放器开发
+  - 战棋类独立游戏项目
+  - 剧情导入工具开发
+  - 剧情播放器开发
 
 * 本地化项目: `A3! 满开剧团` ![Unity](../img/icon/unity-16.png), `梦王国与沉睡的100王子`![cocos](../img/icon/cocos-16.png), `尼尔·重生` ![Unity](../img/icon/unity-16.png)
->- 同步合并日本源代码新版本
->- 待翻译资源提取合并回填工具开发 (shell+lua+C#+SQL)
->- 代码热更方案设计实现(XLua/InjectFix)
->- 客户端 Android/iOS 及服务器 SDK 接入及更新
->- 服务器 Docker 化(自用私服), 及容器编排
->- 自动化 shell/Jenkins 脚本开发
->- 服务器本地化移植 `PHP/Kotlin`, 如: AWS/GoogleDriver 模块替换为 AliyunOSS/TencentCOS (Golang/Kotlin)
->- 客户端资源上传 oss/cos 工具开发 `Go`
+  - 同步合并日本源代码新版本
+  - 运营活动开发
+  - 待翻译资源提取合并回填工具开发 (shell+lua+C#+SQL)
+  - 代码热更方案设计实现(XLua/InjectFix)
+  - 客户端 Android/iOS 及服务器 SDK 接入及更新
+  - 服务器 Docker 化(自用私服), 及容器编排
+  - 自动化 shell/Jenkins 脚本开发
+  - 服务器本地化移植 `PHP/Kotlin`, 如: AWS/GoogleDriver 模块替换为 AliyunOSS/TencentCOS (Golang/Kotlin)
+  - 客户端资源上传 oss/cos 工具开发 `Go`
 
-* 业余自研项目: `歌牌:唐诗百人一首`  C# + lua ![Unity](../img/icon/unity-16.png)
->- 单人一周实现局域网游戏大厅, 匹配联机对战核心功能 
->- 局域网联机(基于 UDP 广播, Android, iOS, Windows, macOS 无差别对等连接)
->- 局域网对战(TCP)
->- 游戏大厅, 房间组队, 即时对战
->- 单日实现[圆周率飞花令](https://new.qq.com/omn/20191125/20191125A0HFXJ00.html)玩法
->- 诗歌数据爬取格式化导入 sqlite 数据库
+* 自研项目: `歌牌:唐诗百人一首`  C# + lua ![Unity](../img/icon/unity-16.png)
+  - 单人一周实现局域网游戏大厅, 匹配联机对战核心功能 
+  - 局域网联机(基于 UDP 广播, Android, iOS, Windows, macOS 无差别对等连接)
+  - 局域网对战(TCP)
+  - 游戏大厅, 房间组队, 即时对战
+  - 单日实现[圆周率飞花令](https://new.qq.com/omn/20191125/20191125A0HFXJ00.html)玩法
+  - 诗歌数据爬取格式化导入 sqlite 数据库
 
 ### 上海萌果信息科技有限公司 
 * 工作时间: 2014/02 -- 2015/10
-* 项目简介: `幻想英雄` 客户端开发 C++ Cocos2d ![cocos](../img/icon/cocos-16.png), 少量服务器开发 C++
->- 若干游戏玩法系统开发
->- 场景编辑器开发(Qt)
->- 语音+文本+emoji即时聊天系统开发
->- 多国多语言版本开发维护
->- 参照 GitHub [Microsoft/cocos2d-x](https://github.com/Microsoft/cocos2d-x) 移植 `WindowsPhone8` 版本, 发布 WindowsPhone 商店
->- 游戏服务器 macOS 移植(便于本地开发调试)
->- 游戏服务器 Android 移植(个人兴趣, 基于 termux)
+* 项目简介: `幻想英雄` 客户端开发 C++ Cocos2d ![cocos](../img/icon/cocos-16.png), 部分服务器开发 C++
+  - 若干游戏玩法系统开发
+  - 场景编辑器开发(Qt)
+  - 语音+文本+emoji即时聊天系统开发
+  - 多国多语言版本开发维护
+  - 参照 GitHub [Microsoft/cocos2d-x](https://github.com/Microsoft/cocos2d-x) 移植 `WindowsPhone8` 版本, 并负责接入 WindowsPhone 内购，上架, 成为 WP 平台仅有的几款游戏之一
+  - 游戏服务器 Android 移植(个人兴趣, 基于 termux)
 
 ### 上海鑫烨网络科技有限公司
 * 工作时间: 2013/03 -- 2014/02
 * 项目简介: `武侠传`/`女神降临` 客户端开发维护 C++ PHP Cocos2d ![cocos](../img/icon/cocos-16.png)
->- 六宫格战斗系统开发
->- iOS 版本移植
->- 内存优化(基于cache + sqlite)
->- 多人伪即时在线系统开发
->- 文本即时聊天系统开发
+  - 六宫格战斗系统开发
+  - iOS 版本移植
+  - 内存优化(基于 cache + sqlite)
+  - 多人伪即时在线系统开发
+  - 文本即时聊天系统开发
 
 ### 喀什第二中学 
-* 工作时间: 2012/07 -- 2013/02
-* 简介: 高二年级 `算法与程序设计` 选修课老师, 学生信息数据库管理(foxbase), 排课工具开发(Excel).
+* 时间: 2012/07 -- 2013/02
+* 主要内容: 
+  - 高二年级 `算法与程序设计` 选修课老师, 
+  - 学生信息数据库管理(foxbase), 排课工具开发(Excel).
+
+### 嵌入式系统毕业设计
+- 项目：C51 单片机声控玩具车
+- 主要工作：
+  - 软件：基于声像定位原理的算法设计和实现
+  - 硬件：基于 C51 单片机的电路设计，仿真和实现
 
 ## 教育经历
 ### 华东师范大学 
